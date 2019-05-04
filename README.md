@@ -21,7 +21,7 @@ Django>=2.0,<3.0
 psycopg2>=2.7,<3.0
 ```
 
-docker-compose.yml
+docker-compose.yml [Docker Compose reference](https://docs.docker.com/compose/gettingstarted/)
 
 ```yaml
 version: '3'
